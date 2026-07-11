@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 韭菜的测试博客
+subtitle: 'Curious to the end.'
+description: '这是一个描述'
 keywords:
-author: John Doe
-language: en
+author: 一根烤韭菜
+language: cn
 timezone: ''
 
 # URL
